@@ -1,7 +1,7 @@
 
 # Terminal-WPM-Test
 
-This is one of my beginner projects, developed to build proficiency in python and syntax understandings.
+This is one of my beginner projects, developed to build proficiency in python and syntax understandings. _(Followed Tutorial made by TechWithTim)_
 
 - Color Coded (Green For Accuracy, Red for Inaccuracy)
 - Beginner Friendly (In my opinion)
